@@ -1,0 +1,14 @@
+D:\GIT EX.s\GITER\GITER\bin\Debug\net7.0\GITER.exe
+D:\GIT EX.s\GITER\GITER\bin\Debug\net7.0\GITER.deps.json
+D:\GIT EX.s\GITER\GITER\bin\Debug\net7.0\GITER.runtimeconfig.json
+D:\GIT EX.s\GITER\GITER\bin\Debug\net7.0\GITER.dll
+D:\GIT EX.s\GITER\GITER\bin\Debug\net7.0\GITER.pdb
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.AssemblyInfoInputs.cache
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.AssemblyInfo.cs
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.csproj.CoreCompileInputs.cache
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.dll
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\refint\GITER.dll
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.pdb
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\GITER.genruntimeconfig.cache
+D:\GIT EX.s\GITER\GITER\obj\Debug\net7.0\ref\GITER.dll
